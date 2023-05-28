@@ -1,0 +1,1 @@
+print('*',"abcde".center(6),'*',sep='')

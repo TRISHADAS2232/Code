@@ -1,0 +1,13 @@
+listx = [1,2,3,4,5,6]
+print(listx)
+listx.insert(1,9)
+print("list after insertion:",listx)
+listx.remove(2)
+print("list after removal:",listx)
+listx.append(8)
+print("list after append:",listx)
+print("length of list:",len(listx))
+listx.pop()
+print("list after pop:",listx)
+listx.clear()
+print("list after clear:",listx)
